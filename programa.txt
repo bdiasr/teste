@@ -1,0 +1,7 @@
+#include 
+
+int main (){
+	lallalalalal
+	int la; 
+	return 0; 
+}
