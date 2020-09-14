@@ -1,7 +1,10 @@
-#include 
+#include <stdio.h>
+#include <stdlib.h>
 
-int main (){
-	lallalalalal
-	int la; 
-	return 0; 
+int main()
+{
+    for (int i; i <1000; i++){
+        printf ("Oi, estou aprendendo como usar o Git!\n");
+    }
+    return 0;
 }
